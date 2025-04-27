@@ -18,5 +18,4 @@ El objetivo principal fue aplicar los principios **SOLID** y distintos **patrone
 - **Decorator:** Extensión dinámica de funcionalidades a las tareas (adjuntos, marcadores, protección).
 - **Strategy:** Ordenamiento de tareas por fecha, prioridad o estado, con posibilidad de cambiar la estrategia en tiempo de ejecución.
 
-## Estructura del Proyecto
 
